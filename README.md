@@ -4,12 +4,12 @@ Written by Aaron Storey
 
 Set of R scripts for the analysis and visualization of Phosphoproteomics data sets. 
 
-Script 1: Creates metadata that links with the MaxQuant database search results /n
-Script 2: Normalizes and runs limma differential expression on the protein lysate samples \n
-Script 3: Normalizes phosphosites to the protein expression and runs limma differential expression
-Script 4: Creates the input data file needed to run PTMsig analysis
-Script 5: Runs PTMsig/ssGSEA
-Script 6: Runs EGSEA gene set enrichment analysis
+Script 1: Creates metadata that links with the MaxQuant database search results <br>
+Script 2: Normalizes and runs limma differential expression on the protein lysate samples <br>
+Script 3: Normalizes phosphosites to the protein expression and runs limma differential expression <br>
+Script 4: Creates the input data file needed to run PTMsig analysis <br>
+Script 5: Runs PTMsig/ssGSEA <br>
+Script 6: Runs EGSEA gene set enrichment analysis <br>
 Script 7A-7C: Creates the interactive Shiny dashboard for visualization
 
 # References:
