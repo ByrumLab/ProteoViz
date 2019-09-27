@@ -1,8 +1,8 @@
 # ProteoViz
-Interactive tool for Phosphoproteomics
+Interactive tool for Phosphoproteomics <br>
 Written by Aaron Storey
 
-Set of R scripts for the analysis and visualization of Phosphoproteomics data sets. 
+Set of R scripts for the analysis and visualization of Phosphoproteomics data sets. <br>
 
 Script 1: Creates metadata that links with the MaxQuant database search results <br>
 Script 2: Normalizes and runs limma differential expression on the protein lysate samples <br>
