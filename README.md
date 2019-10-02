@@ -1,6 +1,6 @@
 # ProteoViz
 Interactive tool for Phosphoproteomics <br>
-Written by Aaron Storey
+
 
 Set of R scripts for the analysis and visualization of Phosphoproteomics data sets. <br>
 
