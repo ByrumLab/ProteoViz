@@ -12,6 +12,10 @@ Script 5: Runs PTMsig/ssGSEA <br>
 Script 6: Runs EGSEA gene set enrichment analysis <br>
 Script 7A-7C: Creates the interactive Shiny dashboard for visualization
 
+MaxQuant txt files are saved in the txt folder <br>
+Scripts are in the src folder <br>
+Create a Sample_metadata.tsv and contrast_matrix.tsv file associated with your experiment to run the code
+
 # References:
 
 1.	M. E. Ritchie, B. Phipson, D. Wu, Y. Hu, C. W. Law, W. Shi and G. K. Smyth, Nucleic Acids Research, 2015, 43, e47-e47. https://academic.oup.com/nar/article/43/7/e47/2414268
