@@ -1,6 +1,9 @@
 # ProteoViz
 Interactive tool for Phosphoproteomics <br>
 
+# Reference
+Aaron J. Storey , Kevin Naceanceno , Renny Lan , Charity L. Washam, Lisa M. Orr , Samuel G. Mackintosh, Alan J. Tackett, Rick D. Edmondson, Zhengyu Wang, Hong-yu, Brendan Frett, Samantha Kendrick, Stephanie D. Byrum*. (2020) ProteoViz: A tool for the analysis and interactive visualization of phosphoproteomics data. Molecular Omics. DOI: 10.1039/c9mo00149b
+
 
 Set of R scripts for the analysis and visualization of Phosphoproteomics data sets. <br>
 
